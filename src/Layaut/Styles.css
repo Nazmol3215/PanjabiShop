@@ -1,0 +1,47 @@
+.footer {
+    background-color: #00244a;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-top {
+    margin-bottom: 20px;
+  }
+  
+  .footer-hotline {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .footer-order-now {
+    margin: 10px 0;
+  }
+  
+  .footer-link {
+    color: #00ff00;
+    text-decoration: none;
+  }
+  
+  .footer-contact,
+  .footer-payment,
+  .footer-courier {
+    margin: 20px 0;
+  }
+  
+  .payment-icons img,
+  .courier-icons img {
+    margin: 0 5px;
+    height: 40px;
+  }
+  
+  .footer-bottom {
+    margin-top: 20px;
+    font-size: 0.9rem;
+  }
+  
+  .footer-bottom a {
+    color: #00ff00;
+    text-decoration: none;
+  }
+  
